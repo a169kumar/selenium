@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-10T14:16:35Z" name="Default suite" finished-at="2019-05-10T14:16:35Z" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2019-05-10T14:16:35Z" name="Default test" finished-at="2019-05-10T14:16:35Z" duration-ms="68">
+      <class name="Book.TestKnowBook">
+        <test-method signature="displ()[pri:0, instance:Book.TestKnowBook@5c671d7f]" started-at="2019-05-10T14:16:35Z" name="displ" finished-at="2019-05-10T14:16:35Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displ -->
+      </class> <!-- Book.TestKnowBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
